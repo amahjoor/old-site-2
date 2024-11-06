@@ -1,2 +1,2 @@
 # site
-my personal website.
+my old personal website (june 2024 - october 2024).
